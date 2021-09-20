@@ -1,8 +1,10 @@
-   ![a](https://th.bing.com/th/id/R.2b8c07e1292ff635f180d366877fa03c?rik=INZMcMXIrcqELw&pid=ImgRaw&r=0)
+   ![a](https://th.bing.com/th/id/OIP.xgpgUjMdh7dnl91F8zowtgHaEK?w=333&h=187&c=7&r=0&o=5&pid=1.7)
 
-### Presentation 🐱‍🚀
-Hi, my name is Jhonas! I am a beginner javascript programmer and i really like to create npms
+### Apresentação 🐱
+Olá! Meu nome é Jhonas e estou estudando várias linguagens de programação! Gosto bastante de ver hakyruu e de codificar Javascript :3
 
-### Projetcs 😎
+
+### Projeots/links 😎
  - [JhowDb](https://www.npmjs.com/package/jhowdb)
+ - [Github](https://github.com/jhonaswitow)
 
