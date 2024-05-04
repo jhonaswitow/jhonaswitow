@@ -1,10 +1,10 @@
    ![a](https://th.bing.com/th/id/OIP.xgpgUjMdh7dnl91F8zowtgHaEK?w=333&h=187&c=7&r=0&o=5&pid=1.7)
 
 ### Apresentação 🐱
-Olá! Meu nome é Jhonas e estou estudando várias linguagens de programação! Gosto bastante de ver hakyruu e de codificar Javascript :3
+Olá! Meu nome é Kauã Klener um programador front-end properando em ser um futuro Dev sênior! Vendo sites, chama discord @mrw1tz
 
 
 ### Projeots/links 😎
- - [JhowDb](https://www.npmjs.com/package/jhowdb)
- - [Github](https://github.com/jhonaswitow)
+ - [Jujutsu list Discord server](https://discord.com/invite/qwn3duUQsK)
+ - [jujutsu list site](https://jujutsu-list.site)
 
